@@ -13,6 +13,7 @@ public class Map : MonoBehaviour
     public Vector3[][] POS;
     public static int MIN_X;
     public static int MIN_Y;
+    //
     public static int CELL_WIDH = 28;
     public static int CELL_HEIGHT = 32;
     void Start()
